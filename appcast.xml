@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>마이샵 관리자</title>
+      <link>http://you.com/app/appcast.xml</link>
+      <description>상세 내역은 아래와 같습니다.</description>
+      <language>ko</language>
+         <item>
+            <title>Version 1.0</title>
+						<sparkle:releaseNotesLink>
+							http://you.com/app/2.0.html
+						</sparkle:releaseNotesLink>
+            <pubDate>Wed, 25 Oct 2023 19:20:11 +0900</pubDate>
+            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.0" type="application/octet-stream"/>
+         </item>
+   </channel>
+</rss>
