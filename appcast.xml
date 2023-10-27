@@ -6,12 +6,15 @@
       <description>상세 내역은 아래와 같습니다.</description>
       <language>ko</language>
          <item>
-            <title>Version 1.0</title>
+            <title>Version 2.2 ㅎㅎ</title>
 						<sparkle:releaseNotesLink>
 							http://you.com/app/2.0.html
 						</sparkle:releaseNotesLink>
-            <pubDate>Wed, 25 Oct 2023 19:20:11 +0900</pubDate>
-            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.0" type="application/octet-stream"/>
+            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="2.2" type="application/octet-stream"/>
+		 <sparkle:tags>
+		 <sparkle:criticalUpdate></sparkle:criticalUpdate>
+		 </sparkle:tags>
+
          </item>
    </channel>
 </rss>
