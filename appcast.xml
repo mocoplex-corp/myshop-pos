@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>마이샵 관리자</title>
-      <link>http://you.com/app/appcast.xml</link>
+      <link>https://raw.githubusercontent.com/mocoplex-corp/myshop-pos/main/appcast.xml</link>
       <description>상세 내역은 아래와 같습니다.</description>
       <language>ko</language>
          <item>
