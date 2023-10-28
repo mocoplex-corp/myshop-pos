@@ -6,8 +6,8 @@
       <description>상세 내역은 아래와 같습니다.</description>
       <language>ko</language>
          <item>
-            <title>Version 1.0.18</title>
-            <enclosure url="https://github.com/mocoplex-corp/myshop-pos/releases/download/1.0/myshop_setup.exe" sparkle:version="1.0.18" type="application/octet-stream"/>
+            <title>Version 1.0.17</title>
+            <enclosure url="https://github.com/mocoplex-corp/myshop-pos/releases/download/1.0/myshop_setup.exe" sparkle:version="1.0.17" type="application/octet-stream"/>
 		 <sparkle:tags>
 		 <sparkle:criticalUpdate></sparkle:criticalUpdate>
 		 </sparkle:tags>
