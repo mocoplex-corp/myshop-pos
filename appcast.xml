@@ -7,10 +7,7 @@
       <language>ko</language>
          <item>
             <title>Version 1.0.18</title>
-						<sparkle:releaseNotesLink>
-							http://you.com/app/2.0.html
-						</sparkle:releaseNotesLink>
-            <enclosure url="http://you.com/app/Your Great App 2.0.zip" sparkle:version="1.0.18" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mocoplex-corp/myshop-pos/releases/download/1.0/myshop_setup.exe" sparkle:version="1.0.18" type="application/octet-stream"/>
 		 <sparkle:tags>
 		 <sparkle:criticalUpdate></sparkle:criticalUpdate>
 		 </sparkle:tags>
