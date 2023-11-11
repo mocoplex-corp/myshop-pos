@@ -7,7 +7,7 @@
       <language>ko</language>
          <item>
             <title>Version 1.0.17</title>
-            <enclosure url="https://github.com/mocoplex-corp/myshop-pos/releases/download/1.0/myshop_setup.exe" sparkle:version="1.0.17" type="application/octet-stream"/>
+            <enclosure url="https://github.com/mocoplex-corp/myshop-pos/releases/download/1.0/myshop_admin_pos.exe" sparkle:version="1.0.17" type="application/octet-stream"/>
 		 <sparkle:tags>
 		 <sparkle:criticalUpdate></sparkle:criticalUpdate>
 		 </sparkle:tags>
