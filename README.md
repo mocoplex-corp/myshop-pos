@@ -1,3 +1,6 @@
+## WebView 노출에 문제가 있는경우
+## https://developer.microsoft.com/en-us/microsoft-edge/webview2/
+
 ## 프로그램이 실행되지 않는다면 닷넷 프레임워크 6.0 를 설치해주셔야 합니다.
 ## 다운로드 및 설치 (기본 - x64) : https://dotnet.microsoft.com/ko-kr/download/dotnet/thank-you/runtime-6.0.24-windows-x64-installer
 ### ARM 버전 : https://dotnet.microsoft.com/ko-kr/download/dotnet/thank-you/runtime-6.0.24-windows-arm64-installer
