@@ -1,0 +1,24 @@
+{
+  "kitchen_printer": [
+    {
+      "no": 1,
+      "type": "local",
+      "name": "kpn_cat",
+      "print_all": true
+    },
+    {
+      "no": 2,
+      "type": "network",
+      "name": "127.0.0.1",
+      "print_all": false
+    }
+  ],
+  "receipt_printer": {
+    "kitchen_print": true,
+    "type": "local",
+    "name": "kpn_cat"
+  },
+  "van": {
+    "type": "kicc"
+  }
+}
