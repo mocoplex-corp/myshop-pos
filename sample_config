@@ -1,0 +1,18 @@
+{
+  "kitchen_printer": [
+    {
+      "no": 1,
+      "type": "local",
+      "name": "kpn_cat",
+      "print_all": true
+    }
+  ],
+  "receipt_printer": {
+    "kitchen_print": true,
+    "type": "local",
+    "name": "kpn_cat"
+  },
+  "van": {
+    "type": "kpn"
+  }
+}
