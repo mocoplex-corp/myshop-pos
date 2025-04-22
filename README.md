@@ -8,6 +8,5 @@
 
 ---
 
-windows7 설치 프로그램 실행 안될떄
-## 32bit : https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-3.1.32-windows-x86-installer
-## 64bit : https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-3.1.32-windows-x64-installer
+windows7 framework 사전설치
+https://dotnet.microsoft.com/ko-kr/download/dotnet-framework/thank-you/net48-offline-installer
